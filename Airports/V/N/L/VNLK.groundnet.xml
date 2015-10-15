@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<groundnet>
+  <frequencies>
+    <AWOS>12602</AWOS>
+    <AWOS>12602</AWOS>
+    <TOWER>12010</TOWER>
+    <APPROACH>11927</APPROACH>
+    <APPROACH>11927</APPROACH>
+  </frequencies>
+   <parkingList>
+        <Parking index="0"
+             type="gate"
+             name="Lukla-#1"
+             number="01"
+             lat="N27 41.206"
+             lon="E86 43.751"
+             heading="44"
+             radius="8"
+             airlineCodes="" />
+
+    <Parking index="1"
+             type="gate"
+             name="Lukla-#2"
+             number="02"   
+             lat="N27 41.229"
+             lon="E86 43.779"
+             heading="223"
+             radius="7"
+             airlineCodes="" />
+
+     <Parking index="2"
+             type="gate"
+             name="Lukla-#3"
+             number="03"   
+             lat="N27 41.258"
+             lon="E86 43.747"
+             heading="224"
+             radius="7"
+             airlineCodes="" /> 
+
+    <Parking index="3"
+             type="gate"
+             name="Lukla-#4"
+             number="04"   
+             lat="N27 41.232"
+             lon="E86 43.715"
+             heading="47"
+             radius="7"
+             airlineCodes="" /> 
+
+
+    <Parking index="4"
+             type="gate"
+             name="Lukla-#5-helipad"
+             number="05"
+             lat="N27 41.252"
+             lon="E86 43.625"
+             heading="165"
+             radius="8"
+             airlineCodes="" />
+
+  </parkingList>
+  <TaxiNodes>
+  </TaxiNodes>
+  <TaxiWaySegments>
+  </TaxiWaySegments>
+</groundnet>
